@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Default template",
+  "behavior": "create",
+  "noteContentFormat": "tags:: [[quick capture]]\npublished:: {{published}}\nauthors:: {{author|split:\", \"|wikilink|join}}\n\n- {{url}}\n- Description\n\t- {{description}}\n- Content\n\t- {{content}}\n",
+  "properties": [],
+  "triggers": [],
+  "noteNameFormat": "{{title}}",
+  "path": "pages"
+}
