@@ -1,0 +1,16 @@
+# Global gitignore
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Note taking (Obsidian and Logseq)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+logseq/.recycle
+logseq/bak
+
+# Dev
+node_modules/
+.env*
