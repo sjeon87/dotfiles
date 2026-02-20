@@ -6,3 +6,7 @@ quotepath = false
 
 [alias]
 disable-push = '!f() { git remote set-url --push "$1" PUSH_DISABLED; }; f'
+pl = pull
+pul = pull
+stt = status
+stat = status
